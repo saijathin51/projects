@@ -243,10 +243,5 @@ Time to test it out!
 
 Just remember you need to close and restart your program. Press control+c to close the currently running program in the terminal and then, run python3 bot.py again.
 
-The moment of truth...
 
-Toad Meme
-Success! 🎉
 
-# Final Words
-That's all it takes to set up and code a Discord bot in Python! Just a note: the bot will respond to you as long as the program is kept running. If you close your terminal or turn off your computer, it will no longer be running. If you want to keep the program running forever, we’ll have to deploy it to another computer in the cloud. However, that is a lesson for another day.
